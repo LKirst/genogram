@@ -2,21 +2,9 @@
   
   <connections>
     
-    <constraint x="0" y="0" perimeter="1" />
-    
-    <constraint x="0.5" y="0" perimeter="1" />
-    
-    <constraint x="1" y="0" perimeter="1" />
-    
     <constraint x="0" y="0.5" perimeter="1" />
     
     <constraint x="1" y="0.5" perimeter="1" />
-    
-    <constraint x="0" y="1" perimeter="1" />
-    
-    <constraint x="0.5" y="1" perimeter="1" />
-    
-    <constraint x="1" y="1" perimeter="1" />
     
   </connections>
   
@@ -25,11 +13,11 @@
     <fillstroke />
     <path>
 
-      <move x="80" y="5"/>
+      <move x="70" y="5"/>
       <line x="10" y="95"/>
 
       <move x="90" y="5"/>
-      <line x="20" y="95"/>
+      <line x="30" y="95"/>
 
     </path>
     <stroke />
