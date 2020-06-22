@@ -22,20 +22,16 @@
   
   <background>
     
-    <rect x="0" y="0" w="100" h="100" />
+    <ellipse x="0" y="0" w="100" h="100" />
     
   </background>
   
   <foreground>
     
     <fillstroke />
-    <path>
-      <move x="0" y="0"/>
-      <line x="100" y="100"/>
-
-      <move x="100" y="0"/>
-      <line x="0" y="100"/>
-    </path>
+    
+    <ellipse x="10" y="10" w="80" h="80" />
+    
     <stroke />
     
   </foreground>

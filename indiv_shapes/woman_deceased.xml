@@ -32,11 +32,7 @@
     <path>
       <move x="15" y="15"/>
       <line x="85" y="85"/>
-    </path>
-    <stroke />
 
-    <fillstroke />
-    <path>
       <move x="85" y="15"/>
       <line x="15" y="85"/>
     </path>
