@@ -1,0 +1,36 @@
+<shape h="100" w="100" aspect="variable" strokewidth="inherit">
+  
+  <connections>
+    
+    <constraint x="0" y="1" perimeter="1" />
+
+    <constraint x="0.25" y="1" perimeter="1" />
+    
+    <constraint x="0.5" y="1" perimeter="1" />
+    
+    <constraint x="0.75" y="1" perimeter="1" />
+    
+    <constraint x="1" y="1" perimeter="1" />
+    
+  </connections>
+  
+  <foreground>
+    <fillstroke />
+    <dashed dashed="1"/>
+    <dashpattern pattern="2 3"/>
+
+    <path>
+        <move x="0" y="0"/>
+        <line x="0" y="100"/>
+
+        <move x="0" y="100"/>
+        <line x="100" y="100"/>
+
+        <move x="100" y="100"/>
+        <line x="100" y="0"/>
+    </path>
+
+    <stroke />
+  </foreground>
+  
+</shape>
